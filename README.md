@@ -36,3 +36,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gabrieledevx&show_icons=true&theme=dark&locale=en" alt="gabrieledevx" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gabrieledevx&theme=dark" alt="gabrieledevx" /></p>
+
+<a href="https://app.daily.dev/gabrieljensen"><img src="https://api.daily.dev/devcards/de2aa558cd8e4055b7d9d10cb7fc5e97.png?r=e7c" width="400" alt="Gabriel Medranda's Dev Card"/></a>
